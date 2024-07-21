@@ -7,13 +7,13 @@
 - 💬 Ask me about how can I help you to create your dreamest game
 
 <p align="center">
-  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Time+New+Roman&color=cyan&size=25&center=true&vCenter=true&width=600&height=100&lines=Assalamu+O+Alaikum+Warahmatullah..&hearts;++;Gammer+Developer,;Unity,;C#,;Love+Games,;<3"></a>
+  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Time+New+Roman&color=cyan&size=25&center=true&vCenter=true&width=600&height=100&lines=KevMek..&hearts;++;Gammer+Developer,;Unity,;C#,;Love+Games,;<3"></a>
 </p>
 <p align="center">
 <a href="https://linkedin.com/in/kevin-mendoza-marcano/" target="_blank">
 <img src=https://img.shields.io/badge/linkedin-%2300acee.svg?color=405DE6&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style="margin-bottom: 5px;" />
 </a>
-
+![(Banner 1.png)
 
 
 <br>
