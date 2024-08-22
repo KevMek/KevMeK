@@ -17,15 +17,11 @@
 <picture> <img align="right" src="https://github.com/KevMek/KevMeK/blob/main/Banner%201%20(1).png" width = 2500px></picture>
 
 🎮🕹️ MY PROJECTS 🎮🕹️
+<p align="center">
+<picture> <img align="right" src="https://github.com/KevMek/KevMeK/blob/main/JUEGO%201.jpg" width = 2500px></picture>
+<picture> <img align="right" src="https://github.com/KevMek/KevMeK/blob/main/JUEGO%202.png" width = 2500px></picture>
+<picture> <img align="right" src="https://github.com/KevMek/KevMeK/blob/main/JUEGO%203.png" width = 2500px></picture>
 
-</b><img src="https://github.com/KevMek/KevMeK/blob/main/JUEGO%201.jpg" width="35"></h1>
-<a href="https://ricdu.itch.io/terraiformer" target="_blank">
-</b><img src="https://github.com/KevMek/KevMeK/blob/main/JUEGO%202.png" width="35"></h1>
-<a href="https://ricdu.itch.io/terraiformer](https://masterkev.itch.io/vertigo" target="_blank">
-</b><img src="https://github.com/KevMek/KevMeK/blob/main/JUEGO%203.png" width="35"></h1>
-<a href="https://masterkev.itch.io/my-darkness" target="_blank">
-
-<br>
 
 
 
