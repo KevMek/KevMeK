@@ -53,7 +53,7 @@ https://masterkev.itch.io/my-darkness
 
 - **Languages**:
     
-    ![C#](https://img.shields.io/badge/language-C%23-blueviolet)
+    ![C#](https://img.shields.io/badge/C%23-%2314354C.svg?style=for-the-badge&logo=python&logoColor=white)
     ![Python](https://img.shields.io/badge/Python%20-%2314354C.svg?style=for-the-badge&logo=python&logoColor=white)
 
 <br>   
